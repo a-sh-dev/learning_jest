@@ -1,15 +1,13 @@
-<h1 align="center">
-  Jest and Cypress with React, Babel, and Webpack
-</h1>
+# 🧪 Learning Testing
+This is part of learning the TestingJavaScript from Kent C. Dodds bundle.
+
+---
+
+## Jest and Cypress with React, Babel, and Webpack
 
 <div align="center">
   <h2><a href="https://testingjavascript.com">TestingJavaScript.com</a></h2>
-  <a href="https://testingjavascript.com">
-    <img
-      width="500"
-      alt="Learn the smart, efficient way to test any JavaScript application."
-      src="https://kentcdodds.com/images/testingjavascript-promo/tjs-4.jpg"
-    />
+  <a href="https://testingjavascript.com">    
   </a>
 </div>
 
